@@ -53,7 +53,7 @@ This package solves this problem by subscibing to the inner object and republish
 ### Swift Package Manager
 Use this library via Swift Package Manger by adding a dependency in your Package.swift.
 ```swift
-.package(url: "https://github.com/adam-zethraeus/Republished", from: "1.1.1")
+.package(url: "https://github.com/adam-zethraeus/Republished", from: "1.2.1")
 ```
 
 ### Usage
